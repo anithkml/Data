@@ -5,6 +5,10 @@ public void CompModl() {
 	System.out.println("lenovo");
 
 }
+
+
+
+
 public static void main(String[] args) {
 	Com c=new Com();
 	c.desksize();
